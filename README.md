@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mervenur Küçükkara
 
-[🔗 LinkedIn](https://www.linkedin.com/in/mervenurr-kucukkara) | [✉️ Email](mailto:mervenurr-kucukkara@gmail.com)
+[🔗 LinkedIn](https://www.linkedin.com/in/mervenur-k%C3%BC%C3%A7%C3%BCkkara-232302296) | [✉️ Email](mailto:mervenurr.kucukkara@gmail.com)
 
 **💻 Software Engineer | Full Stack Developer**
 
