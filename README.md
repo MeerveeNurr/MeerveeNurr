@@ -27,7 +27,7 @@
 ---
 
 ### 🎖️ Achievements
-- 🏆 Ongoing **Turkcell GYGY 5.0 Full Stack Training** (2023)  
+- 🏆 Ongoing **Turkcell GYGY 5.0 Full Stack Training** (2026)  
 - 💼 Part-time **Software Engineer** at **Kuveyt Türk / Architecht** (2023-2025)  
 - 🏥 Developed **Healthcare Management System** (ASP.NET MVC + SQL Server)  
 - 🎓 Built **Student Info System** desktop app (Java + MySQL)  
