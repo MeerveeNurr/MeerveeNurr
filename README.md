@@ -26,21 +26,21 @@
 
 ---
 
-### 🚀 Experience & Projects
-* 💼 **Part-time Software Engineer** at **Kuveyt Türk / Architecht** (2023-2025)  
-* 🏥 **Healthcare System:** Web-based medical management system (ASP.NET MVC + SQL Server)  
-* 🎓 **Student Info System:** Desktop app with Java (OOP) + MySQL  
-* 🤖 **Machine Learning Projects:** Disease detection & health insurance price prediction using Python & Scikit-learn  
+### 🎖️ Achievements
+- 🏆 Ongoing **Turkcell GYGY 5.0 Full Stack Training** (2023)  
+- 💼 Part-time **Software Engineer** at **Kuveyt Türk / Architecht** (2023-2025)  
+- 🏥 Developed **Healthcare Management System** (ASP.NET MVC + SQL Server)  
+- 🎓 Built **Student Info System** desktop app (Java + MySQL)  
+- 🤖 ML Projects: Disease detection & health insurance price prediction (Python + Scikit-learn)
 
 ---
 
 ### 🛠️ Engineering Principles
 * 📜 **Clean Code & SOLID** - readable, modular, maintainable  
 * ✅ **Quality Assurance** - SonarQube for code quality & bug fixing  
-* 🤝 **Collaborative** - Adaptable to Agile/Scrum teams  
+* 🤝 **Collaborative** - Agile/Scrum team player  
 
 ---
-
 
 ### 🎯 Objective
 Develop professional, solution-oriented software & actively contribute to enterprise-scale projects 🌟
